@@ -1,0 +1,17 @@
+{
+    "0,7": {
+        "name": "notepad",
+        "type": "Custom",
+        "param": "notepad.exe"
+    },
+    "0,0": {
+        "name": "Riot",
+        "type": "Custom",
+        "param": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\""
+    },
+    "1,0": {
+        "name": "Bluestack",
+        "type": "Custom",
+        "param": "\"C:\\Program Files\\BlueStacks_msi5\\HD-Player.exe\" --instance Rvc64"
+    }
+}
